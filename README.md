@@ -1,1 +1,2 @@
 # namebot
+*dumb and bad*
